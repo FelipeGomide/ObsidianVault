@@ -1,0 +1,12 @@
+{
+  "accentColor": "#a6e3a1",
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "IosevkaTerm Nerd Font Mono",
+  "baseFontSizeAction": true,
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "big_math"
+  ]
+}

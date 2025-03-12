@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "378b77f258fdbb46",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae386fe07c585d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6efc37a601eb9ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC-MPMG/Playwright/Playwright for Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Playwright for Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c881981474d6a997",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cbfdae8936afa2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b7e7fb2488cedd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dc5ee2107989c71b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2fe290c5dba8ce67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c00964fa6b813e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "79451c54f52e8a86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6664c4b52ab5eb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudos/Cursos/Algoritmos 2/Prova Teórica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prova Teórica"
+            }
+          },
+          {
+            "id": "2b342dfbb750547c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudos/Cursos/Algoritmos 2/Prova Teórica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prova Teórica"
+            }
+          },
+          {
+            "id": "35169d1ffc6f0a27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2fcc7134a46c597",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudos/Cursos/Algoritmos 2/Prova Teórica.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prova Teórica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6efc37a601eb9ea0",
+  "lastOpenFiles": [
+    "IC-MPMG/Playwright/Configuração do Ambiente.md",
+    "IC-MPMG/Panorama Geral.md",
+    "IC-MPMG/Testes de Sistema.md",
+    "IC-MPMG/Ferramentas Citadas Testagem.md",
+    "IC-MPMG/Exercícios Cap 8.md",
+    "Estudos/Cursos/Algoritmos 2/Prova Teórica.md",
+    "Estudos/Cursos/Algoritmos 2/Algoritmos 2.md",
+    "Estudos/Cursos/Matérias com Anotações.md",
+    "Estudos/Cursos/Álgebra A/Álgebra A.md",
+    "Anotações Úteis/Pacotes úteis Python.md",
+    "Estudos/Cursos/Ciência de Dados/Ciência de Dados.md",
+    "Estudos/Cursos/Ciência de Dados/Causalidade.md",
+    "Estudos/Cursos/Ciência de Dados/Regressão Linear.md",
+    "Estudos/Cursos/Ciência de Dados/Regressão Logística.md",
+    "Estudos/Cursos/Ciência de Dados/Informações Trabalho Prático.md",
+    "Anotações Úteis/VsCode.md",
+    "Anotações Úteis/Organização Ubuntu.md",
+    "Anotações Úteis/Git e GitHub.md",
+    "Anotações Úteis/Bash e Makefiles.md",
+    "Estudos/Cursos/Álgebra A/Trabalho Prático 1.md",
+    "Estudos/Cursos/Algoritmos 2",
+    "IC-MPMG/Playwright/Playwright for Python.md",
+    "Estudos/Cursos/Ciência de Dados/Aprendizado de Máquina.md",
+    "Estudos/Cursos/Álgebra A",
+    "Notion/Estudos/Instalação NeoVim.md",
+    "Anotações Úteis/Untitled 1.md",
+    "Estudos/Cursos/Ciência de Dados",
+    "Anotações Úteis",
+    "2024-05-08.md",
+    "Untitled.canvas",
+    "Estudos/Cursos/PDS2/Links Úteis.md",
+    "IC-MPMG/Playwright",
+    "Estudos/Cursos/Estruturas de Dados",
+    "Estudos/Cursos",
+    "Estudos",
+    "IC-MPMG",
+    "Estudos/Cursos/Introdução a Bancos de Dados/Exercícios Normalização - IBD/IBD_Normalizacao_EsquemaER.png",
+    "22swisher-articleLarge.jpg",
+    "explained.png",
+    "Logo_short.png",
+    "Untitled.png",
+    "Untitled 2.png",
+    "Untitled 3.png",
+    "Notion/Modelos-Testes/Minimal Pomodoro Tracker/🏁 To-do List"
+  ]
+}

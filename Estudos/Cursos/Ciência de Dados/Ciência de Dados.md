@@ -1,0 +1,5 @@
+[[Causalidade]]
+[[Informações Trabalho Prático]]
+[[Regressão Linear]]
+[[Regressão Logística]]
+[[Aprendizado de Máquina]]

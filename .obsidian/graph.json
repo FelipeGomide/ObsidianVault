@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Estudos/Cursos  ",
+      "color": {
+        "a": 1,
+        "rgb": 4235307
+      }
+    },
+    {
+      "query": "path:IC-MPMG ",
+      "color": {
+        "a": 1,
+        "rgb": 13766457
+      }
+    },
+    {
+      "query": "path:Violão  ",
+      "color": {
+        "a": 1,
+        "rgb": 14453368
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 0.9421875,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.833333333333333,
+  "repelStrength": 10.7291666666667,
+  "linkStrength": 1,
+  "linkDistance": 69,
+  "scale": 0.4444444444444434,
+  "close": true
+}

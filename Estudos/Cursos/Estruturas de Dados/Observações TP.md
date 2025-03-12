@@ -1,0 +1,3 @@
+- [ ] O Verificador de expressões só funciona com números de 1 dígito, preciso criar o TAD lista e guardar por seção de texto.
+- [ ] Converter posfixador para lista e strings
+- [ ] Referenciar pandas.usp.ime nas bibliográficas
