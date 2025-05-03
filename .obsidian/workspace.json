@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9ae386fe07c585d7",
+        "id": "8653494e270f10a9",
         "type": "tabs",
         "children": [
           {
-            "id": "6efc37a601eb9ea0",
+            "id": "10afca48e40fc5d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC-MPMG/Playwright/Playwright for Python.md",
+                "file": "Estudos/CC_UFMG/06_2025.1/MIneraçãoDados/Trabalho Prático - Frequentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Playwright for Python"
+              "title": "Trabalho Prático - Frequentes"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,51 +163,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6efc37a601eb9ea0",
+  "active": "10afca48e40fc5d9",
   "lastOpenFiles": [
-    "IC-MPMG/Playwright/Configuração do Ambiente.md",
-    "IC-MPMG/Panorama Geral.md",
-    "IC-MPMG/Testes de Sistema.md",
-    "IC-MPMG/Ferramentas Citadas Testagem.md",
-    "IC-MPMG/Exercícios Cap 8.md",
-    "Estudos/Cursos/Algoritmos 2/Prova Teórica.md",
-    "Estudos/Cursos/Algoritmos 2/Algoritmos 2.md",
-    "Estudos/Cursos/Matérias com Anotações.md",
-    "Estudos/Cursos/Álgebra A/Álgebra A.md",
+    "Estudos/CC_UFMG/06_2025.1/MIneraçãoDados/Trabalho Prático - Frequentes.md",
+    "Estudos/CC_UFMG/06_2025.1/MIneraçãoDados/Métricas para padrões frequentes.md",
+    "Estudos/CC_UFMG/06_2025.1/MIneraçãoDados/Frequentes.md",
+    "Estudos/CC_UFMG/06_2025.1/MIneraçãoDados/PCA.md",
+    "Estudos/CC_UFMG/06_2025.1/MIneraçãoDados/CRISP-DM.md",
+    "Estudos/CC_UFMG/06_2025.1/ComputaçãoVisual/Realce.md",
     "Anotações Úteis/Pacotes úteis Python.md",
-    "Estudos/Cursos/Ciência de Dados/Ciência de Dados.md",
-    "Estudos/Cursos/Ciência de Dados/Causalidade.md",
-    "Estudos/Cursos/Ciência de Dados/Regressão Linear.md",
-    "Estudos/Cursos/Ciência de Dados/Regressão Logística.md",
-    "Estudos/Cursos/Ciência de Dados/Informações Trabalho Prático.md",
-    "Anotações Úteis/VsCode.md",
-    "Anotações Úteis/Organização Ubuntu.md",
-    "Anotações Úteis/Git e GitHub.md",
-    "Anotações Úteis/Bash e Makefiles.md",
-    "Estudos/Cursos/Álgebra A/Trabalho Prático 1.md",
-    "Estudos/Cursos/Algoritmos 2",
-    "IC-MPMG/Playwright/Playwright for Python.md",
-    "Estudos/Cursos/Ciência de Dados/Aprendizado de Máquina.md",
-    "Estudos/Cursos/Álgebra A",
-    "Notion/Estudos/Instalação NeoVim.md",
-    "Anotações Úteis/Untitled 1.md",
-    "Estudos/Cursos/Ciência de Dados",
-    "Anotações Úteis",
-    "2024-05-08.md",
+    "Estudos/CC_UFMG/06_2025.1/ComputaçãoVisual/Distribuição Pontos.md",
+    "Estudos/CC_UFMG/06_2025.1/ComputaçãoVisual/Demo Colab.md",
+    "Estudos/CC_UFMG/06_2025.1/SistemasOperacionais/Trabalho Prático.md",
+    "Estudos/CC_UFMG/06_2025.1/SistemasOperacionais/Distribuição Pontos.md",
+    "Estudos/CC_UFMG/06_2025.1/Compiladores/Distribuição Pontos.md",
+    "Estudos/CC_UFMG/06_2025.1/ComputaçãoVisual/Transformadas de Imagens.md",
+    "Estudos/CC_UFMG/06_2025.1/Compiladores/Análise Léxica.md",
+    "Estudos/CC_UFMG/06_2025.1/JogosDigitais/Movimentação Objetos Rígidos.md",
+    "Estudos/CC_UFMG/06_2025.1/JogosDigitais/Game Update and Objects.md",
+    "Estudos/CC_UFMG/06_2025.1/SistemasOperacionais/Escalonamento.md",
+    "Estudos/CC_UFMG/06_2025.1/Compiladores/Estrutura.md",
+    "Estudos/CC_UFMG/06_2025.1/Compiladores/Assembler (Montador).md",
+    "Estudos/CC_UFMG/06_2025.1/JogosDigitais/Organização.md",
+    "Estudos/CC_UFMG/06_2025.1/JogosDigitais/Vetores.md",
+    "Estudos/CC_UFMG/06_2025.1/JogosDigitais/Boilerplate.md",
+    "Estudos/CC_UFMG/06_2025.1/ComputaçãoVisual/Representação de Imagens.md",
+    "Estudos/CC_UFMG/06_2025.1/ComputaçãoVisual/Fundamentos de Imagens Digitais.md",
+    "Estudos/CC_UFMG/06_2025.1/MIneraçãoDados/Distribuição de Pontos.md",
+    "Conteúdos Atrasados.md",
+    "Estudos/CC_UFMG/06_2025.1/MIneraçãoDados",
+    "Estudos/CC_UFMG/06_2025.1/ComputaçãoVisual",
+    "Estudos/CC_UFMG/06_2025.1/Compiladores",
+    "Estudos/CC_UFMG/06_2025.1/JogosDigitais",
+    "Estudos/CC_UFMG/06_2025.1/SistemasOperacionais",
+    "Estudos/CC_UFMG/06_2025.1",
+    "Estudos/CC_UFMG/02_2023.1",
+    "Estudos/CC_UFMG/03_2023.2",
+    "Estudos/CC_UFMG/04_2024.1",
+    "Estudos/CC_UFMG/05_2024.2",
     "Untitled.canvas",
-    "Estudos/Cursos/PDS2/Links Úteis.md",
-    "IC-MPMG/Playwright",
-    "Estudos/Cursos/Estruturas de Dados",
-    "Estudos/Cursos",
-    "Estudos",
-    "IC-MPMG",
-    "Estudos/Cursos/Introdução a Bancos de Dados/Exercícios Normalização - IBD/IBD_Normalizacao_EsquemaER.png",
+    "Estudos/CC_UFMG/03_2023.2/Introdução a Bancos de Dados/Exercícios Normalização - IBD/IBD_Normalizacao_EsquemaER.png",
     "22swisher-articleLarge.jpg",
     "explained.png",
     "Logo_short.png",
     "Untitled.png",
     "Untitled 2.png",
-    "Untitled 3.png",
-    "Notion/Modelos-Testes/Minimal Pomodoro Tracker/🏁 To-do List"
+    "Untitled 3.png"
   ]
 }

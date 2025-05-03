@@ -1,6 +1,7 @@
 {
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-green",
-  "catppuccin-interface-styles@@ctp-bold-folder-title": true,
+  "catppuccin-interface-styles@@ctp-bold-folder-title": false,
   "catppuccin-font-styles@@ctp-bold": "var(--ctp-green)",
-  "catppuccin-font-styles@@ctp-blockquote": "var(--ctp-rosewater)"
+  "catppuccin-font-styles@@ctp-blockquote": "var(--ctp-rosewater)",
+  "catppuccin-icon-styles@@ctp-icon-hide": false
 }

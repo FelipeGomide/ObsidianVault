@@ -1,0 +1,10 @@
+- 4 TPs com roteiro prático - 40 pts
+	- TP0 -> Configuração [[SDL]]
+	- TP1 -> Pong
+	- TP2 -> Asteroids
+	- TP3 -> Super Mario World
+	- TP4 -> StarFox
+- 1 TP grande - 60 pts
+	- Documento de game design - 10 pts
+	- Playtest 10 pts
+	- Produto final e prototipação 40 pts
